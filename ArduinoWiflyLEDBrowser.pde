@@ -2,6 +2,9 @@
 #include <WiFly.h>
 #include "Credentials.h"
 
+//http://192.168.2.101/$1# LED off
+
+//http://192.168.2.101/$2# LED on
  
 int ledPin = 9;
  
